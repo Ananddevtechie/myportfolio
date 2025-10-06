@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  :root {
+    --radius: 0.5rem
+  }
+}
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: #000;
+}
+.text-gray-800{
+    color: rgb(93 119 156);
+}
+.text-gray-700 {
+    color: rgb(154 171 199);
+}
+.text-black {
+    color: rgb(93 119 156);
+}
+.text-\[\#4e525a\] {
+    --tw-text-opacity: 1;
+    color: rgb(175 202 255);
+}
+.text-gray-600 {
+    color: rgb(154 171 199);
+}
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(27 48 89);
+}
+.bg-purple-50 {
+    --tw-bg-opacity: 1;
+    background: rgb(27, 48, 89)
+}
+.text-purple-700 {
+    color: rgb(154 171 199);
+}
+.border-purple-200 {
+     border-color: rgb(0 0 0);
+}
+.to-gray-50 {
+    --tw-gradient-to: #230f45 var(--tw-gradient-to-position);
+}
+
+.from-purple-50 {
+    --tw-gradient-from: #000000 var(--tw-gradient-from-position);
+   
+}
