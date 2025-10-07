@@ -15,6 +15,6 @@ global.ResizeObserver = ResizeObserver;
 describe("About Page", () => {
   it("renders the About me heading", () => {
     render(<About />);
-    expect(screen.getByText(/About e/i)).toBeInTheDocument();
+    expect(screen.getByText(/About me/i)).toBeInTheDocument();
   });
 });
