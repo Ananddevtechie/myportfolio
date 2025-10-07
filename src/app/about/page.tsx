@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     images: "https://i.ibb.co/SwV3FCz9/image.png",
     title: "About | Anand - Frontend Developer",
     description:
-      "Learn more about Anand, a frontend web developer specializing in React, Next.js, TypeScript, and modern web technologies.",
+      "Learn more about Anand , a frontend web developer specializing in React, Next.js, TypeScript, and modern web technologies.",
   },
   twitter: {
     images: "https://i.ibb.co/SwV3FCz9/image.png",
